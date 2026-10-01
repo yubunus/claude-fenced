@@ -1,0 +1,9 @@
+{
+  "name": "fenced",
+  "displayName": "claude-fenced",
+  "version": "1.0.0",
+  "description": "Keeps Claude Code's scratch files, temp files, test scripts, backups, notes, plans and auto-memory inside the project's .claude/ folder, where you can see them, instead of /tmp and ~/.claude.",
+  "author": { "name": "yubunus" },
+  "license": "MIT",
+  "keywords": ["scratchpad", "tmp", "tmpdir", "memory", "plans", "visibility", "hooks"]
+}

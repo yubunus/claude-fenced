@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-fenced",
+  "description": "Keep Claude Code's working files inside your project.",
+  "owner": { "name": "yubunus" },
+  "plugins": [
+    {
+      "name": "fenced",
+      "description": "Keeps Claude Code's scratch, temp, test, backup and note files, plans and auto-memory inside the project instead of /tmp and ~/.claude.",
+      "source": "./plugin",
+      "category": "productivity"
+    }
+  ]
+}
